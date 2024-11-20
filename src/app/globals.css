@@ -15,3 +15,30 @@ body {
 .footercolor{
   background-color: #6082B6;
 }
+
+.navbar-color {
+  background-color: #d5cbbf;
+}
+.navbar-size {
+  height: 125px
+}
+
+.navbar-logo{
+  height: 125px;
+}
+
+.navlink-margin-left{
+  margin-left: 10px;
+}
+
+.custom-center {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  justify-content: center;
+}
+
+.nav-link-size svg {
+  font-size: 1.7rem; /* Adjust this to make the Instagram icon larger */
+}
